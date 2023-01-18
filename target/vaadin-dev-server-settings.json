@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "staticOutput": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp",
+  "jarResourcesFolder": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "/home/z04736/Documents/peixun/flow-crm-tutorial/crm-vaadin/flow-crm-tutorial/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
